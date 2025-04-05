@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **♟️Chess service for collage**
-- 🌱 I'm currently learning: **📚 java**
+- 💼 I'm currently working on: **bath booking project**
+- 🌱 I'm currently learning: **📚 svelte**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, Next.js**
 
  **<h3 align="left">Skills</h3>**
