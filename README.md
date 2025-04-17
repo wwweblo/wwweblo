@@ -1,4 +1,4 @@
-![ Hi☝️🤓]([https://www.21kschool.com/ng/wp-content/uploads/sites/28/2024/02/Learn-to-code-4-reasons-why-your-child-should-do-it.png](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif))
+![ Hi☝️🤓](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif))
 
 ![Profile views](https://komarev.com/ghpvc/?username=wwweblo&label=Profile%20views&color=0e75b6&style=flat)
 
